@@ -1,12 +1,5 @@
 
 <body>
-    <div style="align-self: center;">
-        <img src="./img/Graph_of_Dr.Chuck's_Website_Link_Refrence.png">
-        <br>
-        <img src="./img/FRWSCP223.png" alt="">
-    <br>
-    </div>
-    <br>
     <H1>What is this?</H1>
     <br>
     <p>This is my cornerstone project for Univeristy of Michigan. This can be found in the courses honors track.</p>
@@ -85,6 +78,12 @@
         </p>
     </div>
     <div>
+        <div style="align-self: center;">
+        <img src="./img/Graph_of_Dr.Chuck's_Website_Link_Refrence.png">
+        <br>
+        <img src="./img/FRWSCP223.png" alt="">
+        <br>
+        <div>
         <p style="font-weight: bold;">Note: If you are doing the same class/project, please make your own graph and crawl the web. The pictures provided above are for showing what the code dose and not for
             use for grades, research, etc. 
         </p>
