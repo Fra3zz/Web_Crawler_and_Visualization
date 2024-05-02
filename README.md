@@ -28,7 +28,6 @@
         <p>
             Utilization:
         <ol>
-            <br>
             <li>Install all dependencies within the provided filelock.</li>
             <li>Run spider.py.</li>
             <p style="font-weight: bold;">Spider.py</p>
