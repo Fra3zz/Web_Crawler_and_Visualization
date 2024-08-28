@@ -41,7 +41,7 @@
                     <br>
                     - Exceptions list text file (Example of exception: https://www.google.com/search...  skips all google urls with google.com/search)
                     <br>
-                    - Enable saving of setting sfor easy setup
+                    - Enable saving of settings for easy setup
                     <br>
                     - When restarted it will ask if you want to use a new url of provided an updated exceptions list text file
                 </li>
