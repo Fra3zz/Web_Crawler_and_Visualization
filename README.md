@@ -33,7 +33,7 @@
             <p style="font-weight: bold;">Spider.py</p>
             <ul>
                 <li>
-                    Requests vis command line:
+                    Requests via command line:
                     <br>
                     - URL to be spidered
                     <br>
